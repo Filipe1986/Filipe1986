@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Filipe, welcome to my GitHub.  👋
 
 <!--
 **Filipe1986/Filipe1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<hr />
+
+<a href="https://www.linkedin.com/in/filipe-esteves-goncalves">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+
+
+<br/>
+
+### About Me 🚀
+💻 I’m a **Backend developer** with a bachelor's degree in information systems. </br> </br>
+   
+<br/>
+<hr />
+
+
+## ⚡ Technologies I love and use
+  
+
