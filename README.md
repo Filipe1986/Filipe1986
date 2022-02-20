@@ -26,7 +26,13 @@ Here are some ideas to get you started:
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Backend developer** with a bachelor's degree in information systems. </br> </br>
+💻 I’m a **Backend developer** with a bachelor's degree in Computer Information Systems. </br> </br>
+
+
+I'm very open-minded about new technologies and curious about data engineer roles. I love working with Java, Spring Boot, SQL. 
+I had a great time working with MongoDB, Nodejs as a second language, Kafka and cloud computing.
+
+I'm keen on working with technologies like Scala and Python, among others.
    
 <br/>
 <hr />
