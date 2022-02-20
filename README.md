@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 I'm very open-minded about new technologies and curious about data engineer roles. I love working with Java, Spring Boot, SQL. 
-I had a great time working with MongoDB, Nodejs as a second language, Kafka and cloud computing.
+I had a great time working with MongoDB, Javascript/Nodejs as a second option, Kafka and cloud computing.
 
 I'm keen on working with technologies like Scala and Python, among others.
    
