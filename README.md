@@ -40,9 +40,10 @@ I'm keen on working with technologies like Scala and Python, among others.
 
 <div align="center">
   <a href="https://github.com/Filipe1986">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe1986&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe1986&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe1986&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe1986&layout=compact&langs_count=7&theme=default"/>
 </div>
+
 
 ## ⚡ Technologies I love and use
   
